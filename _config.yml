@@ -1,23 +1,24 @@
 # basic
-title: lyyourc
-subtitle: You Are The JavaScript In My HTML
-favicon: favicon.ico
+#
+title: life as a hippie hacker
+subtitle: patterns of consciousness in a sea of matter
+favicon: http://dinosaur.is/favicon.ico
 
 # avatar: images/avatar.png
 # banner_small: images/banner-small.png
 # banner_large: images/banner-large.png
-avatar: http://7xrcp8.com1.z0.glb.clouddn.com/avatar.png
-banner_small: http://7xrcp8.com1.z0.glb.clouddn.com/banner-small.png
-banner_large: http://7xrcp8.com1.z0.glb.clouddn.com/banner-large.png
+avatar: /images/avatar.jpg
+banner_small: /images/cover0.jpg
+banner_large: /images/cover0.jpg
 
 # disqus
-disqus_shortname: drakeleung
+# disqus_shortname: ahdinosaur
 
 # social
 social:
-  github: https://github.com/DrakeLeung
-  twitter: https://twitter.com/DrakeLeung
-  weibo: http://weibo.com/cha12chalyc
+  github: https://github.com/ahdinosaur
+  twitter: https://twitter.com/ahdinosaur
+  #  weibo: http://weibo.com/cha12chalyc
 
 # nav #
 nav:
@@ -33,4 +34,4 @@ node_sass:
   sourceComments: false
 
 
-google_analytics: # Put tracking ID here
+  # google_analytics: # Put tracking ID here
