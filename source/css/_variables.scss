@@ -1,7 +1,9 @@
 //
 // base
 //
-$bg-color: #eee;
+// https://www.color-hex.com/color/9370db
+$bg-color: #f4f0fb;
+$text-color: #003333;
 $main-content-width: 700px;
 $gutter: 15px;
 
@@ -17,7 +19,8 @@ $avatar-size: 100px;
 $app-title-font-size: 1.875rem;
 
 $avatar-border-color: #fff;
-$app-title-color: #222;
+// https://www.color-hex.com/color/008080
+$app-title-color: #004c4c;
 $app-subtitle-color: #EB298C;
 
 
@@ -32,9 +35,10 @@ $page-nav-font-size: 1.25rem;
 // article
 //
 $article-line-height: 1.7;
-$article-date-color: #aaa;
+$article-date-color: #EB298C;
 $article-gutter: 3 * $gutter;
-$anchor-color: #5badf0;
+// https://www.color-hex.com/color/008080
+$anchor-color: #49386d;
 
 //
 // sharing
